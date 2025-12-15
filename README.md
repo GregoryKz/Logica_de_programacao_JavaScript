@@ -1,68 +1,112 @@
-# 🧠 Lógica de Programação com JavaScript
+# 🧠 Exercícios de Lógica de Programação em JavaScript
 
-Repositório dedicado ao estudo e à prática de **Lógica de Programação utilizando JavaScript**.  
-Os exercícios aqui presentes foram desenvolvidos com foco no aprendizado dos conceitos fundamentais da programação e na transição da lógica para uma linguagem amplamente usada no mercado.
+Este projeto reúne **80+ exercícios de lógica de programação**, todos resolvidos em **JavaScript**, baseados na clássica apostila da **FACCAT (Algoritmos – 2007)**.
 
-## 📌 Sobre
+O objetivo é servir como **material de estudo**, **treino prático** e também como **projeto de portfólio**, com uma interface simples e organizada para executar cada exercício diretamente no navegador.
 
-Este repositório reúne exercícios e exemplos práticos criados durante aulas e estudos de lógica de programação, agora aplicados em **JavaScript**, permitindo maior proximidade com o desenvolvimento web e aplicações reais.
+---
 
-O objetivo é fortalecer o raciocínio lógico e compreender como os algoritmos funcionam dentro de uma linguagem de programação moderna.
+## 🚀 Demonstração
 
-## 🧠 Conteúdos Abordados
+👉 Projeto pensado para rodar no navegador  
+👉 Ideal para publicação via **GitHub Pages**
 
-Os exercícios contemplam temas como:
+Cada botão executa um exercício diferente, chamando sua respectiva função JavaScript.
 
-- 🟢 Introdução à lógica de programação
-- ✍️ Entrada e saída de dados
-- 🔢 Variáveis e tipos de dados
-- ➕ Operadores aritméticos, relacionais e lógicos
-- 🔀 Estruturas condicionais (`if`, `else`)
-- 🔁 Estruturas de repetição (`for`, `while`)
-- 📋 Manipulação básica de arrays
-- 🧩 Exercícios práticos de lógica
+---
 
-## 🚀 Tecnologias Utilizadas
+## 🗂 Estrutura do Projeto
 
-- 💻 **JavaScript (ES6+)**
-- 🌐 **HTML** (para execução dos scripts)
-- 🧪 Navegador Web (Chrome, Edge, Firefox)
+📁 exercicios-logica-js
+│
+├── index.html # Página principal com os botões
+├── style.css # Estilo inspirado no GitHub (dark theme)
+├── funcoes.js # Todas as funções dos exercícios
+└── README.md # Documentação do projeto
 
-## 🛠️ Como Usar
+
+---
+
+## 📚 Conteúdo dos Exercícios
+
+Os exercícios estão organizados por tipo de estrutura lógica:
+
+### 🔹 Exercícios Sequenciais
+- Entrada, processamento e saída de dados
+- Operações matemáticas básicas
+- Conversões e cálculos
+
+### 🔹 Estruturas de Decisão (if / else)
+- Comparações
+- Classificações
+- Regras condicionais
+
+### 🔹 Estruturas de Repetição
+- `while` (ENQUANTO)
+- `for` (PARA)
+- Contadores, somatórios, médias, tabuadas, fatorial e Fibonacci
+
+👉 Cada exercício está implementado em **uma função independente**, facilitando o estudo e a manutenção.
+
+---
+
+## 🧪 Como Executar
 
 1. Clone o repositório:
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
 
-   ```bash
-   git clone https://github.com/GregoryKz/Logica_de_programacao_JavaScript.git
-Acesse a pasta do projeto:
 
-bash
-Copiar código
-cd Logica_de_programacao_JavaScript
-Abra os arquivos .html no navegador
-ou execute os scripts JavaScript conforme instruções nos arquivos.
+Abra o arquivo:
 
-📖 Estrutura do Repositório (exemplo)
-pgsql
-Copiar código
-Logica_de_programacao_JavaScript/
-├── exercicios/
-├── exemplos/
-├── index.html
-└── README.md
-A estrutura pode variar conforme a organização das aulas.
+index.html
 
-🎯 Objetivo do Repositório
-Desenvolver raciocínio lógico com JavaScript
 
-Facilitar a transição da lógica pura para a programação web
+Clique em qualquer botão para executar o exercício correspondente.
 
-Servir como material de estudo e consulta futura
+🛠 Tecnologias Utilizadas
 
-✨ Contribuições
-Contribuições são bem-vindas!
-Sinta-se à vontade para sugerir melhorias, correções ou novos exercícios via issues ou pull requests.
+HTML5
 
-📜 Licença
-Projeto com finalidade educacional e de estudo.
-Uma licença pode ser adicionada futuramente, conforme necessidade.
+CSS3
+
+JavaScript (Vanilla)
+
+Git & GitHub
+
+GitHub Pages (opcional)
+
+🎨 Estilo Visual
+
+Tema escuro inspirado no GitHub
+
+Layout em grid responsivo
+
+Botões interativos
+
+Visual limpo e moderno
+
+Ideal para estudos e apresentação em portfólio.
+
+📌 Objetivo Educacional
+
+Este projeto foi desenvolvido com foco em:
+
+Aprender lógica de programação
+
+Praticar JavaScript básico
+
+Entender estruturas fundamentais
+
+Servir como base para iniciantes
+
+👤 Autor
+
+Desenvolvido por Gregory Klaus
+📍 Estudante e entusiasta de tecnologia
+💻 Foco em lógica, programação e desenvolvimento web
+
+📄 Licença
+
+Este projeto é livre para fins de estudo e aprendizado.
+Sinta-se à vontade para clonar, adaptar e evoluir 🚀
